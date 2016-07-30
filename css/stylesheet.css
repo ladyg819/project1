@@ -1,0 +1,79 @@
+ /*for the CSS for the navigation bar. */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+/* This Adds background color and changes the width of the navigation bar.*/
+ ul {
+    background-color: yellow; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ }
+ 
+ 
+ 
+ 
+/*this changes color for the heading*/
+
+li {
+    display: inline-block;
+    color: navy;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none; 
+}
+    
+    /* this puts a header on the page and centers it */
+h1 {
+    color: navy; font-size: x-large;
+     width:970px; margin:auto;
+    text-align:center;
+}
+
+img {width:450px;
+     margin:auto;
+     }
+
+
+
+
+    
+/*this centers the other headers*/
+h2 {
+    text-align: center;
+    width:970px; margin:auto;
+}
+
+/*this is 2nd part of changing the text*/
+#feeling {
+    text-align: center;
+font-family: 'Anton', sans-serif;}
+
+#tranquil { 
+    text-align: center;
+font-family: 'PT+Sans:400italic';}
+
+
+h3 {
+    text-align: center;
+}
+
+#laws {background-color:#ADD8E6; border:solid navy;
+     width: 970px;
+     margin: auto;
+    
+}
+
+/*This centers the text*/
+.container {
+    width: 970px;
+    margin: auto;
+    
+    text-align: center;
+    background-color:#ADD8E6;
+
+}
